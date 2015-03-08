@@ -41,3 +41,6 @@ proguard/
 
 # Log Files
 *.log
+
+#Ubuntu Editor
+.TXT~

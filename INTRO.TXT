@@ -3,7 +3,7 @@ INTRODUÇÃO
 
 	A garantia da qualidade de software, Quality Software Assurance (QSA), é um processo sistemático que focaliza todas as etapas e artefatos produzidos com o objetivo de garantir conformidade de processos e produtos previnindo e eliminando defeitos (BARTIÉ, 2002). 
 	Partimos então deste ponto para tentar definir o que é Garantia de Qualidade de Software. Dentre os mais notáveis trabalhos sobre engenharia de software, temos sobre garantia da qualidade de software, para PRESSMAN (PRESSMAN, 1995), a garantia da qualidade de software SQA é uma “atividade de guarda-chuva” que é aplicada ao longo de todo o processo de engenharia de software. Ainda de acordo com PRESSMAN SQA abrange (1) métodos e ferramentas de análise, projeto, codificação e teste; (2) revisões técnicas formais que são aplicadas durante cada fase de engenharia de software; (3) uma estratégia de teste de múltiplas fases; (4) controle da documentação de software e das mudanças feitas nela; (5) um procedimento para garantir a adequação aos padrões de desenvolvimento de software (quando aplicáveis); e (6) mecanismo de medição e divulgação. Dessa forma, entendemos que QSA não é uma fase do ciclo de desenvolvimento e sim parte integrante de todas as fases (BARTIÉ, 2003).
-	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento de controle de qualidade de software como Capability Maturity Model (CMM) e o ISO 9000-3, que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software.
+	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento de controle de qualidade de software como Capability Maturity Model (CMM) e o ISO 9000-3, que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjuto de características. Dessa forma definimos que há duas dimensões de qualidade de software: qualidade do processo e qualidade do produto (BARTIÉ, 2002).
 
 # e define 8 características para qualidade de software.
 	>	Funcionalidade
@@ -15,7 +15,7 @@ INTRODUÇÃO
 	>	Segurança
 	>	Portabilidade
 
-	[TODO: dimensões qualidade de software: qualidade do processo e qualidade do produto]	
+	[TODO: ]	
 
 
 PRESSMAN, Roger S. Engenharia de Software : José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995

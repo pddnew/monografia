@@ -2,9 +2,37 @@ INTRODUÇÃO
 
 
 	A garantia da qualidade de software, Quality Software Assurance (QSA), é um processo sistemático que focaliza todas as etapas e artefatos produzidos com o objetivo de garantir conformidade de processos e produtos previnindo e eliminando defeitos (BARTIÉ, 2002). 
-	Partimos então deste ponto para tentar definir o que é Garantia de Qualidade de Software. Dentre os mais notáveis trabalhos sobre engenharia de software, temos sobre garantia da qualidade de software, para PRESSMAN (PRESSMAN, 1995), a garantia da qualidade de software SQA é uma “atividade de guarda-chuva” que é aplicada ao longo de todo o processo de engenharia de software. Ainda de acordo com PRESSMAN SQA abrange (1) métodos e ferramentas de análise, projeto, codificação e teste; (2) revisões técnicas formais que são aplicadas durante cada fase de engenharia de software; (3) uma estratégia de teste de múltiplas fases; (4) controle da documentação de software e das mudanças feitas nela; (5) um procedimento para garantir a adequação aos padrões de desenvolvimento de software (quando aplicáveis); e (6) mecanismo de medição e divulgação. Dessa forma, entendemos que QSA não é uma fase do ciclo de desenvolvimento e sim parte integrante de todas as fases (BARTIÉ, 2003).
-	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento de controle de qualidade de software como Capability Maturity Model (CMM) e o ISO 9000-3, que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjuto de características. Dessa forma definimos que há duas dimensões de qualidade de software: qualidade do processo e qualidade do produto (BARTIÉ, 2002).
+	Partimos então deste ponto para tentar definir o que é Garantia de Qualidade de Software. Dentre os mais notáveis trabalhos sobre engenharia de software, temos sobre garantia da qualidade de software, para PRESSMAN (PRESSMAN, 1995), a garantia da qualidade de software SQA é uma “atividade de guarda-chuva” que é aplicada ao longo de todo o processo de engenharia de software. Ainda de acordo com PRESSMAN SQA abrange:
+	1: métodos e ferramentas de análise, projeto, codificação e teste; 
+	2: revisões técnicas formais que são aplicadas durante cada fase de engenharia de software; 
+	3: uma estratégia de teste de múltiplas fases; 
+	4: controle da documentação de software e das mudanças feitas nela; 
+	5: um procedimento para garantir a adequação aos padrões de desenvolvimento de software (quando aplicáveis);
+	6: mecanismo de medição e divulgação. Dessa forma, entendemos que QSA não é uma fase do ciclo de desenvolvimento e sim parte integrante de todas as fases (BARTIÉ, 2003).
+	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento e de controle como Capability Maturity Model Integration (CMMI) e o ISO 9000-3, que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjuto de características (BARBACCI, 1995). Dessa forma definimos que há duas dimensões de qualidade de software: qualidade do processo e qualidade do produto (BARTIÉ, 2002).
+	
+	A qualidade dos processos de software, deu início a um dos mais importantes modelos voltado para esse sentido. Durante a chamada crise de software organizações perceberam que a incapacidade de gerir o processo de desenvolvimento de software era o principal problema. Deu-se origem ao Capability Mature Model Integration (CMMI).
+	O CMMI, desenvolvido pelo Software Engineering Institute (SEI), da Universidade Carnegie Mellon e apresenta um modelo para melhoria contínua de processos agrupados em 5 níveis, ou seja, cada nível reune um conjunto proposto de processos a serem alcançados: 
+	1: inicial
+	2: gerenciado
+	3: definido
+	4: quantitativamente gerenciado
+	5: otimizando
+	O principal objetivo do CMMI é garantir previsibilidade, eficácia e controle do desenvolvimento do produto de software, com isso obter maturidade nos processos, resultando em um produto de software com maior qualidade e uma gestão racional, além de oferencer um guia de como adiquirir uma cultura de qualidade (KOCUR, 2013). 
 
+
+PRESSMAN, Roger S. Engenharia de Software : José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995
+
+Bartié, Alexandre. Garantia da qualidade de software: adquirindo maturidade organizacional / Alexandre Bartié - Rio de Janeiro : Elisevier 2002
+
+CESAR. Centro de Estudos e Sistemas Avançados do Recife - Informática Brasileira em Análise - ano 1, número 2, junho de 1997.
+
+KOCUR, George. 1.264J Database, Internet, and Systems Integration Technologies, Fall 2013. Massachusetts Institute of Technology: MIT OpenCourseWare, disponível em http://ocw.mit.edu, acessado 07 de março, 2015.
+
+BARBACCI, Mario; Klein, Mark; Longstaff, Thomas; & Weinstock, Charles. Quality Attributes (CMU/SEI-95-TR-021 ). Software Engineering Institute, Carnegie Mellon University, 1995. disponível http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=12433 acessado 08 de março, 2015.
+
+
+# --------- DISCARD -----------
 # e define 8 características para qualidade de software.
 	>	Funcionalidade
 	>	Eficiência
@@ -16,14 +44,3 @@ INTRODUÇÃO
 	>	Portabilidade
 
 	[TODO: ]	
-
-
-PRESSMAN, Roger S. Engenharia de Software : José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995
-Bartié, Alexandre. Garantia da qualidade de software: adquirindo maturidade organizacional / Alexandre Bartié - Rio de Janeiro : Elisevier 2002
-CESAR. Centro de Estudos e Sistemas Avançados do Recife - Informática Brasileira em Análise - ano 1, número 2, junho de 1997.
-George Kocur. 1.264J Database, Internet, and Systems Integration Technologies, Fall 2013. (Massachusetts Institute of Technology: MIT OpenCourseWare), http://ocw.mit.edu (Accessed 7 Mar, 2015). License: Creative Commons BY-NC-SA 
-
-[5] McCall, J., P. Richards e G. Walters, “Factors in Software Quality”, três volumes, NTIS AD-AO49-014, 015, 055 novembro de 1977.
-[6] Schulmeyer, G. C. e J. I. McManus (eds.), Handbook of Software Quality Assurance, Van Nostrand Reinhold, 1987.
-[7] Meyer, B., Object-oriented Software Construction, Prentice-Hall, 1988. 
-[8] BUENO, C. F. dos Santos e CAMPELO, G. B., Qualidade de Software, Departamento de Informática - Universidade Federal do Pernambuco - Recife - PE, em www.cin.ufpe.br/~qualisoft/documentos/diversos/quality.doc, acessado em 20/08/2014.

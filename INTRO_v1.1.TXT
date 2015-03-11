@@ -18,19 +18,26 @@ INTRODUÇÃO
 	5: um procedimento para garantir a adequação aos padrões de desenvolvimento de software (quando aplicáveis);
 	6: mecanismo de medição e divulgação. 
 
-	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento e de controle como Capability Maturity Model Integration (CMMI) e o ISO 9000-3, ISO 15504, 
-[...], 
+	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento e de controle, nacionais e internacionais como Capability Maturity Model Integration (CMMI), ISO 9000-3, ISO 15504 e MPS.BR (MPS-SW) que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjuto de características (BARBACCI, 1995). Dessa forma definimos que as duas dimensões de qualidade de software: qualidade do processo e qualidade do produto estão amplamente cobertas por modelos de mercado, desenvolvidos e amadurecidos ao longo dos anos através de pesquisa e desenvolvimento prático.
 
-que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjuto de características (BARBACCI, 1995). Dessa forma definimos que há duas dimensões de qualidade de software: qualidade do processo e qualidade do produto (BARTIÉ, 2002).
-	
-	A qualidade dos processos de software, deu início a um dos mais importantes modelos voltado para esse sentido. Durante a chamada crise de software organizações perceberam que a incapacidade de gerir o processo de desenvolvimento de software era o principal problema. Deu-se origem ao Capability Mature Model Integration (CMMI).
-	O CMMI, desenvolvido pelo Software Engineering Institute (SEI), da Universidade Carnegie Mellon e apresenta um modelo para melhoria contínua de processos agrupados em 5 níveis, ou seja, cada nível reune um conjunto proposto de processos a serem alcançados: 
+	[Objetivo]: Apresentar uma abordagem de garantia da qualidade de software  (em conformidade|baseado) no CMMI
+
+
+	O CMMI, desenvolvido pelo Software Engineering Institute (SEI), da Universidade Carnegie Mellon e apresenta um modelo para melhoria contínua de processos agrupados em 5 níveis, ou seja, cada nível reÚne um conjunto proposto de processos a serem seguigos: 
 	1: inicial
 	2: gerenciado
 	3: definido
 	4: quantitativamente gerenciado
 	5: otimizando
 	O principal objetivo do CMMI é garantir previsibilidade, eficácia e controle do desenvolvimento do produto de software, com isso obter maturidade nos processos, resultando em um produto de software com maior qualidade e uma gestão racional, além de oferencer um guia de como adiquirir uma cultura de qualidade (KOCUR, 2013). 
+
+	[ISO/IEC 15504]
+
+	[ISO/IEC 9000]
+
+	[MPS.BR]
+
+	[ISO/IEC 25010]
 
 
 PRESSMAN, Roger S. Engenharia de Software : José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995

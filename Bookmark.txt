@@ -6,3 +6,7 @@ https://workspace.gft.com/wiki/index.php/Quality_Assurance
 
 [GFT] Other Methodologies
 https://workspace.gft.com/wiki/index.php/Category:Other_Methodologies
+
+
+[QA vs QC] Quality Assurance x Quality Control
+http://www.qualitygurus.com/courses/mod/forum/discuss.php?d=1557

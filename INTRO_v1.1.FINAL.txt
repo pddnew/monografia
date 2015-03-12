@@ -1,0 +1,37 @@
+INTRODUÇÃO
+
+	Dentro de um cenário de grande competitividade, e cada vez mais acirrada, as organizações buscam diferenciais para os seus produtos ou serviços. Cada vez mais o conjunto de relação custo benefício, versus curto prazo e produtos ou serviços com qualidade são almejados pelos consumidores. Para as organizações que pretendem manterem-se vivas dentro deste cenário, devem estar cada vez mais ligadas as novas necessidades buscadas por esse mercado exigente e extremamente fértil atualmente.
+	
+	No mercado de desenvolvimento de soluções de software obter diferencial através de custo ou prazo é extremamente difícil. Levando em consideração que a mão de obra desse setor que possui uma qualificação bem nívelada, onde profissionais têm quase um mesmo nível de aptidão técnica resultando em um custo de mão de obra e prazo bem equilibrado entre as empresas, a qualidade desponta como um grande diferencial. Obter um processo de qualidade que promove uma cultura organizacional de garantia e controle da qualidade dos seus produtos torna-se essencial. As empresas que alcançam um nível de maturidade de processo de qualidade, certificado através de instituições independentes, reconhecidas pelo mercado, possui um grande diferencial. Empresas com esse tipo de certificado, podem usufruir de um processo seguro, eficaz e controlado, capaz de disseminar uma cultura organizacional para gestão racional do desenvolvimento de seus produtos de software, além explorarem como apelo comercial.
+
+	A qualidade de software é um processo sistemático que focaliza todas as etapas e artefatos produzidos com o objetivo de garantir conformidade de processos e produtos prevenindo e eliminando defeitos (BARTIÉ, 2002). De acordo com BARTIÉ é impossível obter um software de qualidade com processos de desenvolvimento frágeis e deficientes. Vemos então que qualidade de software está intrinsecamente ligada a qualidade dos processos de produção deste produto. Podemos estabelecer então duas dimensões fundamentais da qualidade do software: qualidade de processo e qualidade do produto. Diante de um desafio de garantir a qualidade de um software, de fato busca-se uma cultura de inibição de falhas e erros, estruturando processos que possuam mecanismos para mitigar brechas de possíveis fontes de defeitos. Esses processos estruturados buscam avaliar a qualidade de todas as saídas geradas durante o ciclo de desenvolvimento através de procedimentos e métricas. Dessa forma todo o processo de desenvolvimento deste produto estará coberto e garantido. Portanto, para se alcançar a qualidade de software é preciso que a garantia da qualidade de software seja parte integrante do ciclo de desenvolvimento e esteja presente em todas as fases.
+
+	A Garantia da qualidade de Software, Software Quality Assurance - SQA, deve ser um processo gerido de forma independente do processo de desenvolvimento do produto e se possível deve estabelecer uma relação de "um-para-um" entre as fases de desenvolvimento e as atividades a serem desempenhas por uma equipe de qualidade (BARTIÉ, 2002). Para PRESSMAN (PRESSMAN, 1995), a garantia da qualidade de software é uma “atividade de guarda-chuva” que é aplicada ao longo de todo o processo de engenharia de software. Isso nada mais é que, para se garantir a qualidade é esperado que haja para cada etapa de produção, um processo de avaliação da aderência e conformidade da saída produzida e dos processos, obtendo assim ao final de cada iteração um resultado com mais qualidade em sua totalidade, ou seja, diversos pedaços com qualidade remontam um todo com mais qualidade.
+
+ 	Partimos então deste ponto para tentar descrever o que é Garantia de Qualidade de Software. Dentre os mais notáveis trabalhos sobre engenharia de software (PRESSMAN, 1995), temos sobre garantia da qualidade de software uma abordagem que abrange:
+	1: métodos e ferramentas de análise, projeto, codificação e teste; 
+	2: revisões técnicas formais que são aplicadas durante cada fase de engenharia de software; 
+	3: uma estratégia de teste de múltiplas fases; 
+	4: controle da documentação de software e das mudanças feitas nela; 
+	5: um procedimento para garantir a adequação aos padrões de desenvolvimento de software (quando aplicáveis);
+	6: mecanismo de medição e divulgação. 
+
+	Podemos observar que Pressman prevê um conjunto robusto de processos para que o produto de software esteja em conformidade com os padrões de qualidade. Assim como um produto de manufatura um produto de software com qualidade pode ser entendido como algo que possui uma adesão estrita e consistente com os padrões mensuráveis e verificáveis para alcançar a uniformidade da produção que satisfaça os requisitos específicos do cliente ou do usuário.
+
+	Invariavelmente a garantia da qualidade de software está atrelada a verificação e validação através de modelos de gerenciamento e de controle, como Capability Maturity Model Integration (CMMI), ISO 9000-3, ISO/IEC 15504, ISO/IEC 25051 e MPS.BR (MPS-SW) que foram motivados pelas falhas nos processos de gerência e manutenção durante o desenvolvimento de software (CESAR, 1997) e ainda a antiga ISO/IEC 9126 revisada pela ISO/IEC 25010:2011 para avaliação da qualidade do produto de software através de um conjunto de características (BARBACCI, 1995). Dessa forma definimos que as duas dimensões de qualidade de software: qualidade do processo e qualidade do produto está amplamente cobertas por modelos difundidos no mercado, desenvolvidos e amadurecidos ao longo dos anos através de pesquisa e desenvolvimento prático.
+
+	O objetivo de trabalho é apresentar uma abordagem de garantia da qualidade de software alinhada com os processos contidos no modelo de maturidade do CMMI-DEV e apresentar boas práticas contidas em outros modelos, como PMP, ITIL e Normas ISO também voltadas para garantia da qualidade.
+
+
+ 
+REFERÊNCIAS
+
+PRESSMAN, Roger S. Engenharia de Software: José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995
+
+BARTIÉ, Alexandre. Garantia da qualidade de software: adquirindo maturidade organizacional / Alexandre Bartié - Rio de Janeiro : Elisevier 2002
+
+CESAR. Centro de Estudos e Sistemas Avançados do Recife - Informática Brasileira em Análise - ano 1, número 2, junho de 1997.
+
+KOCUR, George. 1.264J Database, Internet, and Systems Integration Technologies, Fall 2013. Massachusetts Institute of Technology: MIT OpenCourseWare, disponível em http://ocw.mit.edu, acessado 07 de março, 2015.
+
+BARBACCI, Mario; Klein, Mark; Longstaff, Thomas; & Weinstock, Charles. Quality Attributes (CMU/SEI-95-TR-021 ). Software Engineering Institute, Carnegie Mellon University, 1995. disponível http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=12433 acessado 08 de março, 2015.

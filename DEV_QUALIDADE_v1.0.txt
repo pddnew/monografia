@@ -1,0 +1,35 @@
+QUALIDADE
+
+ . Conceito
+
+	Qualidade é um conceito subjetivo e está relacionado às percepções de cada indivíduo e diversos fatores como: cultura, crenças, valores, posição social e entre outros. Em termos de produtos e serviços qualidade se relaciona diretamente com as exigências e necessidades dos clientes, como por exemplo: valor agregado, relação custo-benefício, durabilidade e acessibilidade.
+
+	Seguindo nesta direção temos algumas definições importantes já conhecidas e estudadas. "Qualidade é a habilidade de um conjunto de características inerentes a um produto, componente de produto ou processo atenderem aos requisitos dos clientes” (SEI, 2006). 
+	Podemos observar que qualidade está diretamente vinculada com as expectativas e necessidades do cliente. Segundo Philip Crosby (CROSBY, 1979) “Qualidade é estabelecer conformidade com os requisitos”. Para a norma norma ISO9000 estabelece que “qualidade é o grau no qual um conjunto de características inerentes satisfaz a requisitos” (ISO9000:2005). 
+
+	Desta forma, assim como para outros setores, qualidade é fator crítico de sucesso para a indústria de software (MR-MPS-SW:2012, 2012), tendo em vista o acelerado avanço tecnológico rápido e inovador e também cada vez mais presente no cotidiano dos indivíduos.
+
+ . Qualidade do produto de Software
+
+	A norma ISO/IEC 25010:2011 que é uma norma ISO para qualidade de produto de software, propõe um conjunto de atributos de Qualidade, distribuídos em 8 (oito) características principais, com cada uma delas divididas em sub-características descritas pela norma.
+
+<<<
+http://pt.wikipedia.org/wiki/ISO/IEC_9126
+http://en.wikipedia.org/wiki/Software_quality
+>>>
+
+ . Qualidade PMBok
+ .. Controle da qualidade
+
+ .. Garantia da qualidade
+
+ .. Planejamento da qualidade
+
+
+
+REFERÊNCIAS
+
+MR-MPS-SW:2012. MPS.BR - Melhoria de Processo do Software Brasileiro. Guia Geral MPS de Software. 2012. Copyright 2012 - SOFTEX.
+
+
+

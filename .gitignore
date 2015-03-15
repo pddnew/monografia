@@ -45,3 +45,5 @@ proguard/
 #Ubuntu Editor
 *.TXT~
 *~
+
+*.tmp

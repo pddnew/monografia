@@ -1,3 +1,7 @@
+Follow
+assets/QSA_CMMI_2007.pdf p. 27 ~ 39
+
+
 [MONOGRAFIA] Dicas para escrita
 http://www.maismonografia.com.br/projeto-de-pesquisa.htm
 
@@ -21,3 +25,9 @@ http://en.wikipedia.org/wiki/Software_quality
 
 http://en.wikipedia.org/wiki/Process_area_%28CMMI%29#Process_Area_Organization
 http://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+
+
+[CMMI]
+http://www.sei.cmu.edu/reports/10tr033.pdf
+==
+http://resources.sei.cmu.edu/asset_files/TechnicalReport/2010_005_001_15287.pdf

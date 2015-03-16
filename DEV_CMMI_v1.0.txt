@@ -2,9 +2,22 @@
 
 <<<
 
-CMMI-DEV contains 22 process areas. Of those process areas, 16 are core process areas, 1 is a shared process area, and 5 are development specific process areas [1].
+The CMMI-DEV model provides guidance for applying CMMI best practices
+in a development organization. Best practices in the model focus on
+activities for developing quality products and services to meet the needs of
+customers and end users.
+The CMMI-DEV, V1.3 model is a collection of development best practices
+from government and industry that is generated from the CMMI V1.3
+Architecture and Framework.1
+ CMMI-DEV is based on the CMMI Model
+Foundation or CMF (i.e., model components common to all CMMI models
+and constellations2
+) and incorporates work by development organizations to
+adapt CMMI for use in the development of products and services. 
 
-[1] A core process area is a process area that is common to all CMMI models. A shared process area is shared by at least two CMMI models, but not all of them. 
+CMMI-DEV contains 22 process areas. Of those process areas, 16 are core process areas, 1 is a shared process area, and 5 are development specific process areas [3].
+
+[3] A core process area is a process area that is common to all CMMI models. A shared process area is shared by at least two CMMI models, but not all of them. 
 
 CMMI for Development is a reference model that covers activities for developing both products and services. Organizations from many industries, including aerospace, banking, computer hardware, software, defense, automobile manufacturing, and telecommunications, use CMMI for Development. 
 

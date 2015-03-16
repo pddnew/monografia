@@ -19,3 +19,5 @@ http://www.qualitygurus.com/courses/mod/forum/discuss.php?d=1557
 http://en.wikipedia.org/wiki/ISO/IEC_9126#Developments
 http://en.wikipedia.org/wiki/Software_quality
 
+http://en.wikipedia.org/wiki/Process_area_%28CMMI%29#Process_Area_Organization
+http://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration

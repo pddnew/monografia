@@ -1,3 +1,25 @@
+﻿Modelo de maturidade
+
+CMM
+
+O CMM (PAULK, 1993) foi desenvolvido pelo SEI (Software Engineering Institute), ligado a Universidade Carnegie Mellon e financiado pelo Departamento de Defesa Norte-Americano, com o objetivo de estabelecer um padrão de qualidade para o software desenvolvido para as Forças Armadas. Este modelo foi proposto por Watts S. Humphey, a partir de conceitos de qualidade total estabelecido por Crosby. Segundo Tingey (1997), Crosby mostrou que a implementação de sistemas de qualidade em empresas segue um amadurecimento gradativo em patamares denominados “incerteza, despertar, esclarecimento, sabedoria e certeza”.
+
+Em 1987, a partir do trabalho de Humphrey, o SEI lançou uma breve descrição de um ambiente de maturidade de processo de software e um questionário de maturidade para avaliar o estado corrente das práticas de software e identificar as áreas que necessitavam de melhoria. Em 1991, o SEI criou o CMM, como uma evolução deste ambiente. A partir do lançamento e divulgação da versão 1.1 do CMM, em 1993, o tema de melhoria do processo foi ganhando força. Esta força foi conseqüência dos resultados práticos obtidos pelas organizações que realizaram programas de melhoria com o CMM como modelo de referência (GONÇALVES, 2001).
+
+CMMI
+
+CMMI é o sucessor do modelo de maturidade (CMM) ou CMM Software. O CMM foi desenvolvido no período de 1987 até 1997. Em 2002, CMMI versão 1.1 foi lançado, Versão 1.2 seguido em agosto de 2006, e CMMI versão 1.3 em novembro de 2010. Algumas das principais mudanças no CMMI V1.3 são o apoio de Agile Software Development, melhorias nas práticas de maturidade elevados e alinhamento da representação (estágio e contínua).
+
+CMMI originado em engenharia de software, mas tem sido muito generalizado ao longo dos anos para abraçar outras áreas de interesse, tais como o desenvolvimento de produtos de hardware, a entrega de todos os tipos de serviços e aquisição de produtos e serviços. A palavra "software" não aparece nas definições de CMMI. Esta generalização de conceitos de melhoria faz do CMMI extremamente abstrato. Não é tão específico para engenharia de software como o seu antecessor, o Software CMM.
+
+O CMMI atualmente aborda três áreas de interesse:
+
+Produtos e serviços de desenvolvimento - CMMI for development (CMMI-DEV),
+Estabelecimento de serviço, gestão, - CMMI for Services (CMMI-SVC) e
+De produtos e serviços de aquisição - CMMI for Acquisition (CMMI-ACQ).
+
+O modelo com maior aderencia para empresas de desenvolmento de software é o CMMI-DEV, descrito a seguir.
+
 O CMMI-DEV, modelo V1.3 é um conjunto de melhores práticas de desenvolvimento usado pelo governo (Governo dos Estados Unidos da América) e da indústria que é gerado a partir do CMMI V1.3 Arquitetura e Framework. O Framework CMMI é a estrutura básica que organiza componentes CMMI e as combina em constelações e modelos CMMI. Uma constelação é uma coleção de componentes CMMI que são usados para construir modelos, materiais de treinamento e documentos de avaliação relacionado para uma área de interesse (por exemplo, desenvolvimento, aquisição, serviços).
 
 O modelo CMMI-DEV fornece orientação necessária para aplicar as melhores práticas do CMMI em uma organização. Melhores práticas no modelo de se concentrar em atividades de desenvolvimento de produtos e serviços de qualidade para atender às necessidades dos clientes e usuários finais.
@@ -18,37 +40,44 @@ Há 05 (cinco) níveis de maturidade. No entanto, as avaliações dos níveis de
 
 Nível 2 - Gerenciado
 
-CM - Configuration Management
-MA - Measurement and Analysis
-PMC - Project Monitoring and Control
-PP - Project Planning
-PPQA - Process and Product Quality Assurance
-REQM - Requirements Management
-SAM - Supplier Agreement Management
+CM 	- Gestão da configuração;
+MA 	- Medição e Análise;
+PMC 	- Projeto de Monitoramento e Controle;
+PP 	- Planejamento de Projetos;
+PPQA 	- Processo e Produto Quality Assurance;
+REQM	- Gerenciamento de Requisitos;
+SAM 	- Gerenciamento de acordo com o fornecedor;
 
 
 Nível 3 - Definido
 
-DAR - Decision Analysis and Resolution
-IPM - Integrated Project Management
-OPD - Organizational Process Definition
-OPF - Organizational Process Focus
-OT - Organizational Training
-PI - Product Integration
-RD - Requirements Development
-RSKM - Risk Management
-TS - Technical Solution
-VAL - Validation
-VER - Verification
-
+DAR 	- Análise de decisão e resolução;
+IPM 	- Gestão Integrada de Projetos;
+OPD 	- Definição do Processo Organizacional;
+OPF 	- Foco no Processo Organizacional ;
+OT 	- Treinamento Organizacional;
+PI 	- Integração de Produto;
+RD	- Desenvolvimento de Requisitos;
+RSKM 	- Gestão de Riscos;
+TS 	- Solução Técnica;
+VAL 	- Validação;
+VER 	- Verificação;
 
 Nível 4 - Quantitativamente gerenciado
 
-OPP - Organizational Process Performance
-QPM - Quantitative Project Management
-
+OPP 	- Performance do Processo Organizacional;
+QPM 	- Projeto quantativamente gerenciado;
 
 Nível 5 - Otimizado ou (Em otimização)
 
-CAR - Causal Analysis and Resolution
-OPM - Organizational Performance Management
+CAR 	- Análise e Resolução de Causas;
+OPM 	- Gestão de Desempenho Organizacional;
+
+
+
+
+
+
+
+REFERÊNCIAS
+

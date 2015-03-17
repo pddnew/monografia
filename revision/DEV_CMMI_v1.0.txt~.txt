@@ -1,0 +1,35 @@
+﻿CMMI
+
+<<<
+
+The CMMI-DEV model provides guidance for applying CMMI best practices
+in a development organization. Best practices in the model focus on
+activities for developing quality products and services to meet the needs of
+customers and end users.
+The CMMI-DEV, V1.3 model is a collection of development best practices
+from government and industry that is generated from the CMMI V1.3
+Architecture and Framework.1
+ CMMI-DEV is based on the CMMI Model
+Foundation or CMF (i.e., model components common to all CMMI models
+and constellations2
+) and incorporates work by development organizations to
+adapt CMMI for use in the development of products and services. 
+
+CMMI-DEV contains 22 process areas. Of those process areas, 16 are core process areas, 1 is a shared process area, and 5 are development specific process areas [3].
+
+[3] A core process area is a process area that is common to all CMMI models. A shared process area is shared by at least two CMMI models, but not all of them. 
+
+CMMI for Development is a reference model that covers activities for developing both products and services. Organizations from many industries, including aerospace, banking, computer hardware, software, defense, automobile manufacturing, and telecommunications, use CMMI for Development. 
+
+CMMI for Development contains practices that cover project management, process management, systems engineering, hardware engineering, software engineering, and other supporting processes used in development and maintenance. 
+
+>>>
+
+>>> Check it out, bookmark purpose
+
+http://resources.sei.cmu.edu/asset_files/TechnicalReport/2010_005_001_15287.pdf
+
+<<<
+
+
+A origem do CMMI-DEV (CMMI for Development) [SEI, 2010a] remonta à criação do modelo SW-CMM (Software Capability Maturity Model) que foi definido pelo SEI (Software Engineering Institute) a pedido do Departamento de Defesa dos Estados Unidos. A partir de 1991, foram desenvolvidos CMMs® para várias disciplinas (Engenharia de Sistemas, Engenharia de Software, Aquisição de Software, Gerência e Desenvolvimento da Força de Trabalho, Desenvolvimento Integrado do Processo e do Produto). Embora estes modelos tenham mostrado sua utilidade, o uso de múltiplos modelos se mostrou problemático. O CMMI surgiu para resolver o MPS.BR-Guia Geral MPS de Software:2012 17/58 problema de utilização de vários modelos e é o resultado da evolução do SW-CMM, SECM (System Engineering Capability Model) e IPD-CMM (Integrated Product Development Capability Maturity Model). É, portanto, o sucessor destes modelos. Além disso, o framework CMMISM foi desenvolvido para ser consistente e compatível com a ISO/IEC 15504. Em 2010 foi publicada a versão 1.3 do CMMI, o CMMI-DEV (CMMI for Development) [SEI, 2010a].

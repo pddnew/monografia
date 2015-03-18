@@ -1,9 +1,47 @@
 REFERÊNCIAS
 
-[CMMI]	----
 
-CMMI Product Team. CMMI for Development, Version 1.3 (CMU/SEI-2010-TR-033). Software Engineering Institute, Carnegie Mellon University, 2010. Disponível em http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=9661, Acessado em 16/03/2015.
+INTRO
 
-CMMI-DEV, CMMI Product Team, "CMMI for Development, Version 1.3," Software Engineering Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, Technical Report CMU/SEI-2010-TR-033, 2010. Disponível em http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=9661. Acessado em 13 Março 2015.
+BARBACCI, Mario; Klein, Mark; Longstaff, Thomas; & Weinstock, Charles. Quality Attributes (CMU/SEI-95-TR-021 ). Software Engineering Institute, Carnegie Mellon University, 1995. disponível http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=12433 acessado 08 de março, 2015.
 
-----	----
+BARTIÉ, Alexandre. Garantia da qualidade de software: adquirindo maturidade organizacional / Alexandre Bartié - Rio de Janeiro : Elisevier 2002
+
+CESAR. Centro de Estudos e Sistemas Avançados do Recife - Informática Brasileira em Análise - ano 1, número 2, junho de 1997.
+
+KOCUR, George. 1.264J Database, Internet, and Systems Integration Technologies, Fall 2013. Massachusetts Institute of Technology: MIT OpenCourseWare, disponível em http://ocw.mit.edu, acessado 07 de março, 2015.
+
+PRESSMAN, Roger S. Engenharia de Software: José Carlos Barbosa dos Santos - Sao Paulo : Person Makron Books, 1995
+
+
+
+[QUALIDADE]
+
+BEHKAMAL, Behshid., Mohsen Kahani, Mohammad Kazem Akbari. Customizing ISO 9126 quality model for evaluation of B2B applications. Copyright 2008 Elsevier B.V. September 2008.
+
+BOTELLA P., X. Burgues, J.P. Carvallo, X. Franch, C. Quer, Using Quality Models for Assessing COTS Selection, in: Proceeding of MPEC’04 and ICSE’04, 2004.
+
+CAROSIA, J. S. Levantamento da qualidade do processo de software com foco em pequenas organizações / J. S. Carosia. – São José dos Campos: INPE, 2003.
+
+ISO/IEC 25010. Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - System and software quality models, 2011. Disponível em http://www.iso.org/iso/catalogue_detail.htm?csnumber=35733, acessado em 14 Março 2015.
+
+MACCALL, J., P. Richards e G. Walters, “Factors in Software Quality”, três volumes, NTIS AD-AO49-014, 015, 055. novembro de 1977.
+
+MEYER, B., Object-oriented Software Construction, Prentice-Hall, 1988.
+
+MR-MPS-SW:2012. MPS.BR - Melhoria de Processo do Software Brasileiro. Guia Geral MPS de Software. Copyright 2012 - SOFTEX, 2012.
+
+PÁDUA, Wilson de P.F. Engenharia de Software: fundamentos, métodos e padrões, 2003
+
+WATSON, Mike. Managing Smaller Projects: A Practical Approach. Multi-Media Publications Inc., 2006.
+
+
+[CMMI]
+CAROSIA, J. S. Levantamento da qualidade do processo de software com foco em pequenas organizações / J. S. Carosia. – São José dos Campos: INPE, 2003.
+
+CMMI, CMMI Product Team, "CMMI for Development, Version 1.3," Software Engineering Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, Technical Report CMU/SEI-2010-TR-033, 2010. Disponível em http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=9661. Acessado em 13 Março 2015.
+
+GONÇALVES, J. M; Villas Boas, A. Modelo de maturidade da capacidade de software (CMM). Campinas: Fundação CPqD. Versão 1.2. Tradução não oficial do CMU/SEI-93-TR-24-(CMM V1.1), 2001. 60 p.
+
+PAULK, M. C.; Curtis, B; Chississ, M; Weber, C. V. Capability maturity model version 1.1. Pittsburgh: Software Engineering Institute, Carnegie Mellon University. Technical Report (CMU/SEI-93-TR-024/ESC-TR-93-177), Fevereiro 1993. 82 p.
+

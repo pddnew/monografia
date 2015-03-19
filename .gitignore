@@ -47,3 +47,4 @@ proguard/
 *~
 
 *.tmp
+/HeavyWeight_assets

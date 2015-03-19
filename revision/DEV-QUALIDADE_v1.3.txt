@@ -1,0 +1,130 @@
+QSA_CMMI_2007 p. 23
+
+2.2.3 Planejamento da Qualidade
+O processo de Planejamento da Qualidade se divide em entradas, técnicas e
+ferramentas, e saídas conforme ilustra a Figura 3 e tem como objetivo identificar os requisitos
+que contribuem para a qualidade dos processos e produtos e determinar de que forma
+satisfazer a estes padrões (PMI, 2003).
+Figura 3. Entradas, Técnicas e Ferramentas, e Saídas no processo de Planejamento da
+Qualidade
+Fonte: PMBOK (2004).
+O Planejamento da Qualidade deve estar presente na fase inicial do processo de
+software e ser executado regularmente e em paralelo com outros processos de planejamento
+de projeto. Um dos seus produtos de trabalho gerado é o plano de qualidade.
+No plano de qualidade devem-se estabelecer as características de qualidade mais
+significativas para o produto a ser desenvolvido e planejar como essas características podem
+ser obtidas (PMBOK, 2004). Neste sentido, Humphrey (1989), sugere a seguinte estrutura
+para a elaboração de um plano de qualidade:
+1. Definição de políticas de qualidade: A política de qualidade pode ser definida como
+“as intenções globais e o direcionamento de uma organização referente à qualidade”;
+2. Declaração do escopo do projeto: A declaração do escopo é uma entrada chave para
+o planejamento da qualidade, pois documenta as principais entradas do projeto, seus
+objetivos, desejos, marcos e expectativas das partes interessadas; e
+3. Descrição do produto: Descrever o produto, pesquisar as tendências de mercado a
+qual pretende atingir e as respectivas expectativas quanto à qualidade (PMBOK, 2004).
+Para auxiliar no processo de planejamento da qualidade, surgem as seguintes técnicas
+e ferramentas:13
+1. Análise de custo/benefício: O planejamento da qualidade deve considerar o
+equilíbrio entre custo e benefício. O principal benefício de atender aos requisitos de qualidade
+é o menor retrabalho, o que significa maior produtividade, menores custos e maior satisfação
+das partes interessadas. O principal custo de atender aos requisitos de qualidade é a despesa
+associada às atividades de gerenciamento da qualidade do projeto.
+2. Benchmarking: prática de “copiar” as melhores idéias das empresas bem sucedidas,
+readaptá-las e implantá-las no nosso projeto.
+3. QFD (Quality Function Deployment – Desdobramento da Função Qualidade): É
+uma ferramenta utilizada no processo de planejamento da qualidade para identificar as
+necessidades dos usuários.
+Segundo Caroline Liboreiro Paiva (1999, p.83),
+O método QFD tem por finalidade estabelecer a qualidade a nível de projetos, com o
+objetivo de que todas as informações e atividades envolvidas no processo de
+desenvolvimento sejam desdobradas até que se tornem claras a todas as funções da
+empresa. Busca, assim, uma solução antecipada dos problemas, a fim de que os
+pontos críticos que determinam à qualidade dos produtos e processos sejam
+estabelecidos já na fase de concepção dos mesmos e controlados durante os estágios
+do desenvolvimento.
+Neste sentido, o método QFD foca nas necessidades dos clientes, buscando garantir a
+qualidade dos produtos e serviços ao longo do processo de desenvolvimento, além de
+proporcionar a resolução de problemas de forma rápida.
+O processo de Planejamento da Qualidade resulta nas seguintes saídas:
+1. Plano de Gerência da Qualidade: Descreve as entradas para o plano de projeto e
+aborda o controle da qualidade, garantia da qualidade e a melhoria contínua dos processos do
+projeto, dando a visão de como a equipe de gerenciamento de projetos implementará a política
+de qualidade da organização executora.
+2. Checklist de qualidade: Também conhecida com lista de verificação, é uma
+ferramenta usada para o levantamento de dados sobre a qualidade de um produto ou um
+número de ocorrências de um evento qualquer conforme Figura 4.
+Checklist do Projeto
+Capa
+Índice com número de páginas
+Todos os desenhos estão em anexo
+Assinatura no projeto
+Páginas erradas
+Anexo A14
+Figura 4. Check List
+Fonte: Adaptado de Barreto Jr. (2001)
+O checklist possui várias finalidades, tais como: tornar os dados fáceis de obter e de
+utilizar, dispor os dados de forma mais organizada, verificar o tipo de defeito e suas causas
+dos defeitos. É uma ferramenta muito comum, utilizada a todo o momento.
+Existem outras ferramentas que prestam suporte ao planejamento de qualidade. São
+elas: brainstorming, diagramas de afinidade, análise de campo de força, técnicas de grupo
+nominal, diagramas de matriz, fluxogramas e matrizes de priorização.
+2.2.4 Garantia da Qualidade
+O processo de Garantia da Qualidade deve ser aplicado ao longo de todo o processo de
+desenvolvimento, envolvendo revisões técnicas formais, múltiplas fases de teste, controle da
+documentação de software e das mudanças, procedimentos para garantir a adequação aos
+padrões e mecanismos de medição e divulgação (PRESSMAN, 1995).
+No processo de Garantia da Qualidade de Processo e de Produto existem três
+elementos importantes: entradas, técnicas e ferramentas, e saídas como mostra a Figura 5.
+Figura 5. Entradas, Técnicas e Ferramentas, e Saídas no processo de Garantia da Qualidade
+Fonte: PMBOK (2004).
+O processo de garantia da qualidade compreende as seguintes entradas:
+1. Plano de gerência da qualidade: O plano de gerência da qualidade está descrito na
+Seção 2.3.1; e15
+2. Resultados da medição do controle da qualidade: As medições de controle da
+qualidade são os registros dos testes e medidas de controle da qualidade num formato
+adequado para comparações e análises.
+As técnicas e ferramentas utilizadas pela Garantia da Qualidade são:
+1. Técnicas e ferramentas de planejamento da qualidade: As técnicas e ferramentas de
+planejamento da qualidade descritas na Seção 2.3.1 podem ser utilizadas na garantia da
+qualidade.
+2. Auditorias de qualidade (Quality audits): Uma auditoria de qualidade é uma revisão
+estruturada das outras atividades de gerência da qualidade. O objetivo da auditoria da
+qualidade é identificar as lições aprendidas que melhorem o desempenho deste projeto ou de
+outros projetos da organização. A auditoria de qualidade pode ser programada ou aleatória,
+podendo ser conduzida tanto por auditores de qualidade da própria empresa adequadamente
+treinados, quanto por terceiras (empresas externas).
+Resultando na seguinte saída do processo de Garantia da Qualidade:
+1. Melhoria da qualidade: A melhoria da qualidade inclui a tomada de ações para
+aumentar a efetividade e a eficiência do projeto fornecendo benefícios adicionais para as
+partes envolvidas do projeto. Na maioria dos casos, a implementação de melhorias na
+qualidade exigirá preparação de requisitos de mudanças ou tomada de ações corretivas.
+2.2.5 Controle da Qualidade
+A qualidade de um produto se dá pelo grau de conformidade com os respectivos
+requisitos. Se o produto de software esta em má qualidade, muitos requisitos não são
+completamente atendidos (PÁDUA, 2001). O não atendimento ou a ausência desses requisitos
+de qualidade gera uma não conformidade.
+O Controle de Qualidade monitora o processo e/ou produto de acordo com o padrão de
+qualidade estabelecido no início do projeto, identificando possíveis causas de não
+conformidades existentes nesses processos e produtos durante todo o projeto (PMI, 2004). Por
+meio da figura 6, observa-se a estrutura do processo de Controle da Qualidade, composta de
+entradas, técnicas e ferramentas, e saídas (PMI , 2003).16
+Figura 6. Entradas, Técnicas e Ferramentas, e Saídas no processo de Controle da Qualidade
+Fonte: PMBOK (2004).
+O Controle da Qualidade utiliza-se das seguintes ferramentas e técnicas:
+1. Diagrama de Pareto: É um método que identifica e avalia as não conformidades
+existentes nos processos e produtos avaliados (PMBOK, 2004). A definição de não
+conformidade corresponde à ausência de uma ou mais características de qualidade em relação
+aos requisitos especificados conforme Figura 7. Essa definição também pode ser utilizada
+para o termo defeito, desde que seja relacionado a um uso pretendido ou especificado como é
+o caso (ISO 9000, 2000).
+Figura 7. Diagrama de Pareto.
+Fonte: Adaptada de PMBOK (2004)17
+Este método serve para classificar os problemas de acordo com a causa e o fenômeno,
+permitindo determinar quais devem ser resolvidos e qual será abordado inicialmente. Ao
+detectar os defeitos existentes, a equipe de projeto deverá atuar primeiramente as não
+conformidades que estão causando o maior número de defeitos.
+2. Diagrama de Causa e Efeito: O diagrama de Causa e Efeito é uma técnica muito
+utilizada, tanto para solucionar problemas complexos como simples, a qual consiste de um
+conjunto de causas (fatores) e efeitos (características) como ilustrado na Figura 8. Esse
+diagrama também é conhecido como diagramas de Ishikawa ou diagrama de espinha de peixe.
+Figura 8. Diagrama de Causa e Efeito.

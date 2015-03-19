@@ -1,0 +1,12 @@
+Para fins de desambiguação, cabe diferenciar o conceito de garantia da qualidade do conceito de controle da qualidade. A garantia da qualidade é formada por um conjunto sistemático e planejado de atividades que, quando seguidas, garantem aos clientes que os produtos ou serviços atendem às suas expectativas. Em outras palavras, pode se dizer que garantia da qualidade remete ao como fazer o software, que por sua vez remete ao conceito de processo de software. Por outro lado, o controle da qualidade é a comparação de um determinado produto ou serviço com suas respectivas especificações, onde todo e qualquer desvio identificado é devidamente registrado e endereçado. O controle da qualidade é uma atividade inserida em processo de software que garante o pleno funcionamento do produto ou serviço de acordo com os requisitos previamente levantados (BASTOS, 2007).
+
+Cite
+
+Bastos, A. and Rios, E. and Cristalli, R. and Moreira, T. (2007), Base de Conhecimento
+em Teste de Software, Martins Editora.
+
+
+Elberzhager, F. and Denger, C., A Comprehensive Planning Framework for Selecting and Customizing Quality Assurance Techniques, In IEEE Conference on Software Engineering and Advanced Applications. 2007. Disponível em http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4301092, acessado em 18/03/2015.
+
+
+MANUVANNAN Mr. S., Software process and product quality assurance in IT organizations. International Journal of Computer Engineering. Volume 1, Number 1, May - June (2010), pp. 147-157. Junho 2010.

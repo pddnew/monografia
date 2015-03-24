@@ -1,0 +1,115 @@
+VISÃO GERAL PARA ESTABELECER O PPQA, DO CMMI NÍVEL 02.
+
+	Neste trabalho, não será apresentado um guia detalhado para estabelecer os processos e práticas de garantia da qualidade de processo e produto, requeridos para estar conformidade com a certificação junto ao SEI, (CMMI-DEV, Nível 02), tendo em vista que para isto, seria de vital importância um estudo de caso ou ainda conhecer modelos amplamente estabelecidas por organizações já certificadas.
+
+	No entanto, será proposto uma estrutura de papéis e atividades, para que se tenha um guia inicial, uma visão geral. Vale a pena citar alguns modelos publicados, como o framework proposto por (ELBERZHAGER, 2007) e também o modelo de processos de PPQA publicado por (MANUVANNAN, 2010), que estabelece um conjunto de processos e artefatos de deve estar contidos na abordagem de PPQA. 
+	
+	De modo geral, estes modelos propõe a criação de um órgão ou departamento com papéis e responsabilidade independente da área de produçaõ ou desenvolvimente do produto a fim de executar um conjunto de processos estabelecidos pela organização para que esteja em conformidade com as práticas específicas contidas na área de processo PPQA do CMMI-DEV (CMMI, 2010), (MANUVANNAN, 2010) e (ELBERZHAGER, 2007).
+	
+	De forma, clara e resumida PPQA involve as seguintes questões que devem estar em foco a cada atividade:
+	
+	- Avaliar a aderência dos produtos de trabalho e serviços com as descrições dos processos, padrões e procedimentos estabelecidos.
+
+	- Identificar e documentar problemas de não conformidade.
+
+	- Manter equipe e gestores informados dos resultados sobre as atividades da Garantia da Qualidade.
+
+	- Certificar que problemas de não conformidade estão devidamente delegados.
+
+	Dessa forma vamos estabelecer um conjuntos de artefatos e tarefas de acordo com os trabalhos já citados e alguma experiência própria e vivência com esse modelo.
+
+	Artefatos
+
+		Entrada:
+		Plano de projeto
+		Documentação de processos
+		Checklist
+	
+
+		Saída:
+		Plano de PPQA
+		Relatório periódico da Garantia da Qualidade
+		Relatório de não conformidades
+		Relatório sobre lições aprendidas 
+
+	Atividades
+	1. Elaborar plano de qualidade
+	2. Avaliar objetivamente os produtos de trabalho e serviços
+	3. Avaliar objetivamente os processos
+	4. Aprovar produto final para entrega
+	5. Providênciar relatório periódico
+	6. Providênciar relatório de não conformidades
+	7. Elaborar relatório de lições aprendidas do projeto
+	8. Disponibilizar materiais de treinamento para os integrantes do projeto
+	9. Prestar suporte a todos os envolvidos no projetos
+
+	Todas essas atividade estão distribuidas entre os papéis previstos.
+[...](paper) Tabela 2. Papéis previstos...
+
+	
+	Para que as atividades descritas sejam desempenhadas alguns passos podem ser propostos para obter nível mais detalhado[... cont.].
+
+	1. Elaborar plano de qualidade
+		- Identificar e entender o escopo do projeto. 
+			Designar um representante de PPQA para atender a reunião de ponta-pé  inicial do projeto.
+		- Indentificar o modelo de ciclo de vida do projeto.
+			Analisar junto com o Gerente de projetos o tipo do projeto, a dimensão, os entregáveis e lições aprendidas de projetos similares
+		- Desenvolver o Plano de garantia da qualidade de processo e produto.
+			Eleger processos a serem avaliados; 
+			Eleger produtos de trabalho a sererm avaliados;
+			Estabelecer critério de avaliação
+			Estabelecer o prazo e agendamento para avaliação
+
+	2. Avaliar objetivamente os produtos de trabalho e serviços
+	
+		- Selecionar produtos de trabalho para serem avaliados com base no plano de qualidade
+		- Realizar a avaliação do produto de trabalho.
+		- Coletar e documentar boas práticas e lições aprendidas que possam contribuir com a melhoria do produto, métodos e ferramentas utilizados.
+		- Identificar, documentar e reportar não conformidades encontradas
+
+	3. Avaliar objetivamente os processos
+		- Selecionar e detalhar os processos do projetos para ser avaliados
+		- Realizar avaliação a partir de critérios estabelecidos no plano de qualidade
+	
+		- Coletar e documentar boas práticas e lições aprendidas que possam contribuir com a melhoria do processo.
+		- Identificar, documentar não conformidades encontradas
+
+	4. Aprovar produto final para entrega
+		- Certificar que todos os processos foram seguidos em conformidade
+		- Em caso de não conformidades pendentes, garantir a rastreabilidade das mesma afim de resolve-las
+		- Escalar para o nível competente em caso de não conformidades devidademente tratadas.
+		- Aprovar o produto final para entrega.
+
+		
+	5. Providênciar relatório periódico
+		
+		- Elaborar e enviar para todos os envolvidos o relatório periódico.
+			O período deve ser acordado entre os envolvidados e o gerente de projeto. De forma geral um relatório semanal pode ser uma boa sugestão.
+			O relatório deve descrever as atividades realizas pela Garantia da qualidade referente ao período em questão.
+							
+	6. Providênciar relatório de não conformidades
+
+		- Elaborar relatório de não conformidade encontradas na avaliação de processo e produto de trabalho.
+			Classificar as não conformidades com um grau de importância. Alta: Se afetar os produtos gerados pelo projeto. Baixa: Se não afetar os produtos gerados pelo projeto, exigir correções em documentos ou revisões de melhorias básicas.
+
+	7. Elaborar relatório de lições aprendidas do projeto
+		- Coletar, documentar e reportar lições aprendidas durante o projeto com o intuito de colaborar para projetos futuros.
+	
+		- Identificar e incluir no relatório, boas práticas, observações e análises pessoais
+
+	8. Disponibilizar materiais de treinamento para os integrantes do projeto
+		- Desenvolver conteúdo para treinamento do integrantes do projeto sobre PPQA
+			Em geral, uma boa opção é disponibilizar esse conteúdo através de uma Intranet
+		- Desenvolver questionário para avaliar o aprendizado sobre PPQA
+			Um pequeno Quiz, também disponibilizado através de uma Intranet pode atender essa necessidade de maneria ágil.
+
+	9. Prestar suporte a todos os envolvidos no projetos
+		- Designar um representante de PPQA para prestar suporte aos envolvidos no projeto
+		- Estabelecer canais para contato
+			Email, Telefone e Chat
+
+[...] Podemos observar que algumas atividades geram ensumos para outras, e vale lembar não necessariamente seguem um ordem de execução como enumeradas neste trabalho. Algumas atividades são recorrentes, outras assíncronas e outras ainda pontuais. Cabe aos integrante de PPQA identifica-las e determinar como e quando executar-las buscando melhor adequação aos processos organizacionais.
+	
+
+
+	

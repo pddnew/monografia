@@ -1,0 +1,1 @@
+Propõe um conjunto de atividades para, garantia da qualidade de software, em adequação ao PPQA do CMMI-DEV.

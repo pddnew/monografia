@@ -45,3 +45,7 @@ GONÇALVES, J. M; Villas Boas, A. Modelo de maturidade da capacidade de software 
 
 PAULK, M. C.; Curtis, B; Chississ, M; Weber, C. V. Capability maturity model version 1.1. Pittsburgh: Software Engineering Institute, Carnegie Mellon University. Technical Report (CMU/SEI-93-TR-024/ESC-TR-93-177), Fevereiro 1993. 82 p.
 
+[METHODOLOGY]
+ELBERZHAGER, F. and Denger, C., A Comprehensive Planning Framework for Selecting and Customizing Quality Assurance Techniques, In IEEE Conference on Software Engineering and Advanced Applications. 2007. Disponível em http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4301092, acessado em 18/03/2015.
+
+MANUVANNAN Mr. S., Software process and product quality assurance in IT organizations. International Journal of Computer Engineering. Volume 1, Number 1, May - June (2010), pp. 147-157. Junho de 2010.

@@ -49,3 +49,5 @@ PAULK, M. C.; Curtis, B; Chississ, M; Weber, C. V. Capability maturity model ver
 ELBERZHAGER, F. and Denger, C., A Comprehensive Planning Framework for Selecting and Customizing Quality Assurance Techniques, In IEEE Conference on Software Engineering and Advanced Applications. 2007. Disponível em http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4301092, acessado em 18/03/2015.
 
 MANUVANNAN Mr. S., Software process and product quality assurance in IT organizations. International Journal of Computer Engineering. Volume 1, Number 1, May - June (2010), pp. 147-157. Junho de 2010.
+
+Chrissis, M. B. and Konrad, M. and Shrum, S. CMMI for development Guidelines for Process Integration and Product Improvement, Third Edition, Addison Wesley. 2011.
